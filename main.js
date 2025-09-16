@@ -6,7 +6,6 @@ url.pathname = "/NBU_ovdp";
 
 url.searchParams.set("date", exact_date);
 url.searchParams.set("val_code", currency);
-url.searchParams.set("mode", "AuctionDate");
 url.searchParams.set("ord", "asc");
 url.searchParams.append("json", "");
 

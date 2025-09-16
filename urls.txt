@@ -1,2 +1,2 @@
 course%3A%2F%2Fweb.backend%3Fname%3D%22%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%20%D0%93%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D1%8C%22%26group%3D%22%D0%A4%D0%95%D0%86-26%D1%81%22%26subgroup%3D%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22%23Oleksa32
-https://bank.gov.ua/NBU_ovdp?date=10.09.2024&val_code=UAH&json
+https://bank.gov.ua/NBU_ovdp?date=10.09.2024&val_code=UAH&ord=asc&json
